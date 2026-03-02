@@ -83,5 +83,4 @@ Focused on backend development, systems programming, and building software syste
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/DiogoSBettencourt)  
-- [GitHub](https://github.com/DiogoBettencourt)  
 - Email: [diogo.s.bettencourt@gmail.com](mailto:diogo.s.bettencourt@gmail.com)  
