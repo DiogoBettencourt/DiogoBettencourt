@@ -51,18 +51,6 @@ Focused on backend development, systems programming, and building software syste
 
 ---
 
-## Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **dbsh** | Custom shell in C++ exploring command parsing and system calls | [GitHub](https://github.com/DiogoBettencourt/dbsh) |
-| **Ducky** | Platformer game in Unity with collectibles and projectiles | [GitHub](https://github.com/DiogoBettencourt/Ducky) |
-| **Project_Facility** | Survival-horror game in Unity with a sound-based monster and micro system management | [GitHub](https://github.com/AlexfCaneca/Project_Facility) |
-| **Project_Deckdelvers** | Deck-builder roguelike in Unity where you manage cards to progress through stages | [GitHub](https://github.com/DiogoBettencourt/Project_Deckdelvers) |
-| *(More projects coming)* | | |
-
----
-
 ## Goals
 
 - Become a strong **backend & systems developer**  
